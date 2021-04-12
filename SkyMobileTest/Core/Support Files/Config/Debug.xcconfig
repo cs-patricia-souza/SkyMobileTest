@@ -1,0 +1,7 @@
+#include "Pods/Target Support Files/Pods-SkyMobileTest/Pods-SkyMobileTest.debug.xcconfig"
+
+SLASH = /
+SKYSERVICE_BASE_URL = https:$(SLASH)/sky-exercise.herokuapp.com
+DISPLAY_NAME = SkyMobileDev
+PRODUCT_BUNDLE_IDENTIFIER = br.com.patriciasouza.SkyMobileTestDev
+CUCKOO_GENERATE_MOCKS = YES
