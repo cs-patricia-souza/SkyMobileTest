@@ -8,7 +8,7 @@
 
 
 ## Desafio:
-Nós da SKY utilizamos JSON para fazer parse do nosso conteúdo. Seu desafio é muito simples, você deve realizar parse desta url (https://sky-exercise.herokuapp.com/ api/Movies) para construir a tela a seguir:
+Nós da SKY utilizamos JSON para fazer parse do nosso conteúdo. Seu desafio é muito simples, você deve realizar parse desta url (https://sky-exercise.herokuapp.com/api/Movies) para construir a tela a seguir:
 
 <img width="217" alt="Captura de Tela 2021-04-12 às 13 56 15" src="https://user-images.githubusercontent.com/12645172/114432265-dff97780-9b96-11eb-959b-e43f2bb79d7c.png">
 
